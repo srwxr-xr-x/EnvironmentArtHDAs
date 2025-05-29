@@ -1,7 +1,7 @@
 # Environment Art HDAs
 
 ## About
-EnvironmentArtHDAs is a digital asset library for SideFX's *Houdini* meant for use by.. Environment Artists! These are my own HDA's that are fully documented that I use for my own personal projects.
+EnvironmentArtHDAs is a digital asset library for SideFX's *Houdini* meant for use by.. Environment Artists! These are my own HDA's that are fully documented that I use for my own personal projects.  
 This repository is **open source software**! Free to use by anyone, forever!
 
 ## Tools
