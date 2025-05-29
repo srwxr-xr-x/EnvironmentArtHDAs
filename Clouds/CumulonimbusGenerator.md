@@ -1,4 +1,5 @@
 # Cumulonimbus Generator
+![](https://raw.githubusercontent.com/srwxr-xr-x/EnvironmentArtHDAs/refs/heads/main/Clouds/Clouds.jpg)
 ## Introduction
 ### Mission
 - Photorealistic Clouds, mimicking that of real world examples of the specified cloud, in this case, *Cumulonimbus capillatus*. 
