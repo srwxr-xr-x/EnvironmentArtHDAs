@@ -1,4 +1,5 @@
-# Cumulonimbus Generator
+# Trunk Mesher
+![](https://raw.githubusercontent.com/srwxr-xr-x/EnvironmentArtHDAs/refs/heads/main/Trees/Trees.png)
 ## Introduction
 ### Mission
 - Realistic Root and Trunk meshing, according to simple rules derived in the node. 
@@ -33,3 +34,4 @@ In the other tab, *Noise Controls*, controls are solely focused on adding mounta
 "*Skeleton Noise*" contains another Lerp min/max value, and its curve. The noise for this is very simple, and typically does not need to be modified other than these controls. If the user must modify it, it is contained within the "NoiseTree" `Attribute Noise` node.
 "*Base Trunk Noise*" contains parameters mapped from the base trunk `Attribute Noise` node. These are just post-processing steps to add noise before converting and combining the veins with the main mesh.
 "*Final Noise*" controls final low and high frequency post-processing noise, this is just for artistic controls.
+
