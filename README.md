@@ -4,6 +4,12 @@
 EnvironmentArtHDAs is a digital asset library for SideFX's *Houdini* meant for use by.. Environment Artists! These are my own HDA's that are fully documented that I use for my own personal projects.  
 This repository is **open source software**! Free to use by anyone, forever!
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/srwxr-xr-x/EnvironmentArtHDAs/refs/heads/main/Clouds/Clouds.jpg" width="35%" />
+  <img src="https://raw.githubusercontent.com/srwxr-xr-x/EnvironmentArtHDAs/refs/heads/main/Trees/Trees.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/srwxr-xr-x/EnvironmentArtHDAs/refs/heads/main/Mesh%20Landscape/Nanitify.jpg" width="27%" />
+</p>
+
 ## Tools
 
 - **Cumulonimbus Generator**
